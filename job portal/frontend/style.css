@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+header {
+  background: #222;
+  color: #fff;
+  padding: 1em;
+}
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+section {
+  padding: 40px;
+}
+form input, form textarea {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+}
